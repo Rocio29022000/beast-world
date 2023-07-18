@@ -1,0 +1,14 @@
+.hb-container {
+    width: 45vw;
+  }
+  
+  img {
+    width: 100%;
+    height: 45vw;
+    object-fit: cover;
+    object-position: center left;
+  }
+  
+  img:last-of-type {
+    object-position: right;
+  }

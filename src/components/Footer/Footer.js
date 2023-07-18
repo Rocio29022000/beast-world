@@ -1,9 +1,10 @@
 import React from 'react'
+import "./Footer.css";
 
 export default function Footer() {
   return (
-    <div>
+    <footer>
       Author: Rocio Carmona
-    </div>
+    </footer>
   )
 }
